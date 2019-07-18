@@ -7,3 +7,5 @@ Git is a great tool for version controlling.
 Git is free software.
 For a backoff test.
 Git has a mutable index called stage.
+Git tracks changes.
+Git does not tracks file changes.
